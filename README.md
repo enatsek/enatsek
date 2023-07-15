@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a retired IT guy. My main interests are Linux and Python. I prefer Ubuntu and Debian Linux but RHEL and derivatives are OK too. OpenSuse and Alpine is in my radar too.
+I am a retired IT guy. My main interests are Linux and Python. I prefer Ubuntu and Debian Linux but RHEL and derivatives are OK too. OpenSuse and Alpine are also in my radar.
 
 
 
